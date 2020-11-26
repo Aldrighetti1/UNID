@@ -1,0 +1,60 @@
+C:\Users\narut\Desktop\listaen\listaen\obj\Debug\listaen.csprojAssemblyReference.cache
+C:\Users\narut\Desktop\listaen\listaen\obj\Debug\listaen.Properties.Resources.resources
+C:\Users\narut\Desktop\listaen\listaen\obj\Debug\listaen.csproj.GenerateResource.cache
+C:\Users\narut\Desktop\listaen\listaen\obj\Debug\listaen.csproj.CoreCompileInputs.cache
+C:\Users\narut\Desktop\listaen\listaen\bin\Debug\listaen.exe.config
+C:\Users\narut\Desktop\listaen\listaen\bin\Debug\listaen.exe
+C:\Users\narut\Desktop\listaen\listaen\bin\Debug\listaen.pdb
+C:\Users\narut\Desktop\listaen\listaen\obj\Debug\listaen.Form1.resources
+C:\Users\narut\Desktop\listaen\listaen\obj\Debug\listaen.exe
+C:\Users\narut\Desktop\listaen\listaen\obj\Debug\listaen.pdb
+C:\Users\narut\Desktop\5to Semestre\Administracion Archivos\Base archivo\listaen\listaen\bin\Debug\listaen.exe.config
+C:\Users\narut\Desktop\5to Semestre\Administracion Archivos\Base archivo\listaen\listaen\bin\Debug\listaen.exe
+C:\Users\narut\Desktop\5to Semestre\Administracion Archivos\Base archivo\listaen\listaen\bin\Debug\listaen.pdb
+C:\Users\narut\Desktop\5to Semestre\Administracion Archivos\Base archivo\listaen\listaen\obj\Debug\listaen.csprojAssemblyReference.cache
+C:\Users\narut\Desktop\5to Semestre\Administracion Archivos\Base archivo\listaen\listaen\obj\Debug\listaen.Form1.resources
+C:\Users\narut\Desktop\5to Semestre\Administracion Archivos\Base archivo\listaen\listaen\obj\Debug\listaen.Properties.Resources.resources
+C:\Users\narut\Desktop\5to Semestre\Administracion Archivos\Base archivo\listaen\listaen\obj\Debug\listaen.csproj.GenerateResource.cache
+C:\Users\narut\Desktop\5to Semestre\Administracion Archivos\Base archivo\listaen\listaen\obj\Debug\listaen.csproj.CoreCompileInputs.cache
+C:\Users\narut\Desktop\5to Semestre\Administracion Archivos\Base archivo\listaen\listaen\obj\Debug\listaen.exe
+C:\Users\narut\Desktop\5to Semestre\Administracion Archivos\Base archivo\listaen\listaen\obj\Debug\listaen.pdb
+C:\Users\LeoSparda\Desktop\Base archivo\listaen\listaen\bin\Debug\listaen.exe.config
+C:\Users\LeoSparda\Desktop\Base archivo\listaen\listaen\bin\Debug\listaen.exe
+C:\Users\LeoSparda\Desktop\Base archivo\listaen\listaen\bin\Debug\listaen.pdb
+C:\Users\LeoSparda\Desktop\Base archivo\listaen\listaen\obj\Debug\listaen.csprojAssemblyReference.cache
+C:\Users\LeoSparda\Desktop\Base archivo\listaen\listaen\obj\Debug\listaen.Form1.resources
+C:\Users\LeoSparda\Desktop\Base archivo\listaen\listaen\obj\Debug\listaen.Properties.Resources.resources
+C:\Users\LeoSparda\Desktop\Base archivo\listaen\listaen\obj\Debug\listaen.csproj.GenerateResource.cache
+C:\Users\LeoSparda\Desktop\Base archivo\listaen\listaen\obj\Debug\listaen.csproj.CoreCompileInputs.cache
+C:\Users\LeoSparda\Desktop\Base archivo\listaen\listaen\obj\Debug\listaen.exe
+C:\Users\LeoSparda\Desktop\Base archivo\listaen\listaen\obj\Debug\listaen.pdb
+C:\Users\LeoSparda\Desktop\Respaldo\pjtVentas\Base archivo\listaen\listaen\bin\Debug\listaen.exe.config
+C:\Users\LeoSparda\Desktop\Respaldo\pjtVentas\Base archivo\listaen\listaen\bin\Debug\listaen.exe
+C:\Users\LeoSparda\Desktop\Respaldo\pjtVentas\Base archivo\listaen\listaen\bin\Debug\listaen.pdb
+C:\Users\LeoSparda\Desktop\Respaldo\pjtVentas\Base archivo\listaen\listaen\obj\Debug\listaen.csprojAssemblyReference.cache
+C:\Users\LeoSparda\Desktop\Respaldo\pjtVentas\Base archivo\listaen\listaen\obj\Debug\listaen.Form1.resources
+C:\Users\LeoSparda\Desktop\Respaldo\pjtVentas\Base archivo\listaen\listaen\obj\Debug\listaen.Properties.Resources.resources
+C:\Users\LeoSparda\Desktop\Respaldo\pjtVentas\Base archivo\listaen\listaen\obj\Debug\listaen.csproj.GenerateResource.cache
+C:\Users\LeoSparda\Desktop\Respaldo\pjtVentas\Base archivo\listaen\listaen\obj\Debug\listaen.csproj.CoreCompileInputs.cache
+C:\Users\LeoSparda\Desktop\Respaldo\pjtVentas\Base archivo\listaen\listaen\obj\Debug\listaen.exe
+C:\Users\LeoSparda\Desktop\Respaldo\pjtVentas\Base archivo\listaen\listaen\obj\Debug\listaen.pdb
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista\listaen\listaen\bin\Debug\listaen.exe.config
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista\listaen\listaen\bin\Debug\listaen.exe
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista\listaen\listaen\bin\Debug\listaen.pdb
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista\listaen\listaen\obj\Debug\listaen.csprojAssemblyReference.cache
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista\listaen\listaen\obj\Debug\listaen.Form1.resources
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista\listaen\listaen\obj\Debug\listaen.Properties.Resources.resources
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista\listaen\listaen\obj\Debug\listaen.csproj.GenerateResource.cache
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista\listaen\listaen\obj\Debug\listaen.csproj.CoreCompileInputs.cache
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista\listaen\listaen\obj\Debug\listaen.exe
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista\listaen\listaen\obj\Debug\listaen.pdb
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista sin telefono\listaen\listaen\bin\Debug\listaen.exe.config
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista sin telefono\listaen\listaen\bin\Debug\listaen.exe
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista sin telefono\listaen\listaen\bin\Debug\listaen.pdb
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista sin telefono\listaen\listaen\obj\Debug\listaen.csprojAssemblyReference.cache
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista sin telefono\listaen\listaen\obj\Debug\listaen.Form1.resources
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista sin telefono\listaen\listaen\obj\Debug\listaen.Properties.Resources.resources
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista sin telefono\listaen\listaen\obj\Debug\listaen.csproj.GenerateResource.cache
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista sin telefono\listaen\listaen\obj\Debug\listaen.csproj.CoreCompileInputs.cache
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista sin telefono\listaen\listaen\obj\Debug\listaen.exe
+C:\Users\mowpa\OneDrive\Escritorio\ArchivoLista sin telefono\listaen\listaen\obj\Debug\listaen.pdb
